@@ -4,9 +4,7 @@ The goal was to design and create a virtual and physical arena for the TurtleBot
 
 ## General information
 The project was followed closely by the professors Sylvain Argentieri and Fabien Vérité, because the arena was to be used during 
-practical lab session for a robotics class for first year Master students. The team was made of 14 students from different specialties.
-It was divided into two groups, the first group focused on the robot and the second on the arena. All of the virtual work was done 
-using ROS.
+practical lab session for a robotics class for first year Master students.
 
 ## The robot
 The task of the robot tean was to add a RaspberryPi camera onto the TurtleBot3 Burger. They had to design a support for the camera so
